@@ -43,25 +43,6 @@ Tested:
 
 ---
 
-## Repository Structure
-
-ml-from-scratch/
-│
-├── notebooks/
-│   └── neural_networks_from_scratch.ipynb
-├── src/
-│   └── neural_networks.py
-├── figures/
-└── README.md
-
----
-
-## Example Output
-
-![Decision Boundary](figures/decision_boundary.png)
-
----
-
 ## Author
 Felicia Selbst  
 Wellesley College — Data Science Major, Chemistry Minor  
